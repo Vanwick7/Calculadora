@@ -33,14 +33,14 @@ Calculadora/
 
 ## ▶️ Como Usar
 
+🌐 **[Acessar a Calculadora Online](https://vanwick7.github.io/Calculadora)**
+
+Ou localmente:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Vanwick7/Calculadora.git
 ```
-
-2. Abra o arquivo `index.html` no seu navegador
-
-3. Pronto! É só calcular 🎉
+2. Abra o arquivo `index.html` no navegador
 
 ## 👨‍💻 Autor
 
