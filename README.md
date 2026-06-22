@@ -4,7 +4,8 @@ Uma calculadora simples e funcional desenvolvida com HTML, CSS e JavaScript puro
 
 ## 📸 Preview
 
-><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/60a129c6-f284-4eae-9a26-d6235afb53eb" />
+![Uploading image.png…]()
+
 
 
 ## 🚀 Funcionalidades
